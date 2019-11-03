@@ -1,11 +1,7 @@
 ( function( $ ){
   
-  // click behavior
   $('#button-export-data').click( function(){
-
-    //event.preventDefault();
-    //alert("Works!");
-
+  	// No action to perform here. Just loading JS scripts for future features.
   } );
 
 } )( jQuery );
